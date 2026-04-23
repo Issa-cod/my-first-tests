@@ -16,5 +16,5 @@
 - [ ] Пишу первый автотест
 
 ## 📞 Контакты
-- Telegram: @ваш_логин
+- Telegram: @IssaAndArt
 - Email: ваш_email@example.com
