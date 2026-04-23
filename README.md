@@ -17,4 +17,4 @@
 
 ## 📞 Контакты
 - Telegram: @IssaAndArt
-- Email: ваш_email@example.com
+- Email: inessaromanova6@gmail.com
